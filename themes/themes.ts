@@ -1,6 +1,6 @@
 export const light = {
   mode: "light",
-  heroImage: require("../assets/images/icon.png"),
+  heroImage: require("../assets/images/light-hero.png"),
   background: "#f6f6f7",
   panel: "#ffffff",
   panelElev: "#f1f1f3",
@@ -13,10 +13,10 @@ export const light = {
 
 export const dark = {
   mode: "dark",
-  heroImage: require("../assets/images/icon.png"),
+  heroImage: require("../assets/images/dark-hero.png"),
   background: "#0f1014",
   panel: "#191920",
-  panelElev: "#22232b",
+  panelElev: "#070e44ff",
   textPrimary: "#e9eef8",
   textMuted: "#9aa0b2",
   accent: "#9bc7ff",

@@ -12,10 +12,6 @@ import {
     Text,
     View
 } from "react-native";
-// import Header from "../components/Header";
-// import TodoInput from "../components/TodoInput";
-// import TodoCard from "../components/TodoCard";
-// import FooterFilters from "../components/FooterFilters";
 
 const { width } = Dimensions.get("window");
 
